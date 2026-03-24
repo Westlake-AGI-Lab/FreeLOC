@@ -7,8 +7,8 @@
 <div align="center">
   <p>
     <a href="">Jiahao Tian</a><sup>1</sup>&nbsp;&nbsp;
-    <a href="">Chenxi Song<sup>1*</sup>&nbsp;&nbsp;
-    <a href="">Wei Cheng<sup>1</sup>&nbsp;&nbsp;
+    <a href="">Chenxi Song</a><sup>1*</sup>&nbsp;&nbsp;
+    <a href="">Wei Cheng</a><sup>1</sup>&nbsp;&nbsp;
     <a href="">Chi Zhang</a><sup>1†</sup>
   </p>
   <p>
