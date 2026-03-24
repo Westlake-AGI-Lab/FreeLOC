@@ -57,12 +57,13 @@ To tackle these, we introduce:
 <th>FreeLOC (Ours, 4×)</th>
 </tr>
 <tr>
-<td><video src="https://github.com/user-attachments/assets/direct_1.mp4" width="100%"></video></td>
-<td><video src="https://github.com/user-attachments/assets/freeloc_1.mp4" width="100%"></video></td>
+<td><video src="https://github.com/user-attachments/assets/eb64e8b3-e6f3-4be2-9838-454b92f93f6c" width="100%"></video></td>
+<td><video src="https://github.com/user-attachments/assets/8db5017f-e774-414c-932c-958f3441570c
+" width="100%"></video></td>
 </tr>
 <tr>
-<td><video src="https://github.com/user-attachments/assets/direct_2.mp4" width="100%"></video></td>
-<td><video src="https://github.com/user-attachments/assets/freeloc_2.mp4" width="100%"></video></td>
+<td><video src="https://github.com/user-attachments/assets/2cb27e60-d442-47fb-8e86-5c6bed393510" width="100%"></video></td>
+<td><video src="https://github.com/user-attachments/assets/6e20dae9-8bb8-4900-a745-76c7df51cedc" width="100%"></video></td>
 </tr>
 </table>
 
