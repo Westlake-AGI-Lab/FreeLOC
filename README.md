@@ -1,13 +1,4 @@
-<p align="center">
-  <!-- <a href=''><img src='https://img.shields.io/badge/Project-Page-Green'></a> -->
-  <!-- &nbsp; -->
-  <a href="https://arxiv.org/abs/2603.25209">
-    <img src="https://img.shields.io/static/v1?label=Arxiv&message=FreeLOC&color=red&logo=arxiv">
-  </a>
-  &nbsp;
-  <!-- <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-orange'></a> -->
-</p>
-
+<!-- <p align="center"> <img src="assets/logo.png" width="30%"> </p> -->
 # <div align="center">FreeLOC: Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction<br><sup>(CVPR 2026)</sup></div>
 
 <div align="center">
@@ -29,11 +20,12 @@
 <p align="center">
   <!-- <a href=''><img src='https://img.shields.io/badge/Project-Page-Green'></a> -->
   <!-- &nbsp; -->
-  <a href=""><img src="https://img.shields.io/static/v1?label=Arxiv&message=FreeLOC&color=red&logo=arxiv"></a>
+  <a href="https://arxiv.org/abs/2603.25209">
+    <img src="https://img.shields.io/static/v1?label=Arxiv&message=FreeLOC&color=red&logo=arxiv">
+  </a>
   &nbsp;
   <!-- <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-orange'></a> -->
 </p>
-
 ## 📰 News
 
 - **[2025/03/18]** Release code for FreeLOC built on [Wan2.1-T2V-1.3B](https://github.com/Wan-Video/Wan2.1).
